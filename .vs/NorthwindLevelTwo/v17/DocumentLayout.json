@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9B7666-5FD2-4CD8-9F7D-6CAA4ADA9D5D}|WebAPI\\WebAPI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9B7666-5FD2-4CD8-9F7D-6CAA4ADA9D5D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CF77BC-65E3-4CAE-863C-E8AB9DEEA3E6}|Entities\\Entities.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\entities\\dtos\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CF77BC-65E3-4CAE-863C-E8AB9DEEA3E6}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70458327-6D10-4E89-AA5F-648A374C9E1A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C7AD77-5A38-482D-8C02-4BAD194ABEC7}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\core\\dataaccess\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C7AD77-5A38-482D-8C02-4BAD194ABEC7}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\concrete\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C7AD77-5A38-482D-8C02-4BAD194ABEC7}|Core\\Core.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\core\\dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C7AD77-5A38-482D-8C02-4BAD194ABEC7}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\concrete\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\concrete\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\cartlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\cartlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\business\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E058E98-B770-414F-88D6-4003CD91068A}|Business\\Business.csproj|solutionrelative:business\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\views\\cart\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\views\\cart\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\extensions\\sessionextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\extensions\\sessionextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\validationrules\\fluentvalidation\\shippingdetailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\validationrules\\fluentvalidation\\shippingdetailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\models\\shippingdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\models\\shippingdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|c:\\users\\burak.cengiz.belenco\\source\\repos\\northwindleveltwo\\mvcwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C1F347D-F518-4441-8C48-22ADB03EFE07}|MVCWebUI\\MVCWebUI.csproj|solutionrelative:mvcwebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:38:01.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Entities\\Dtos\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Entities\\Dtos\\ProductDetail.cs",
+              "RelativeToolTip": "Entities\\Dtos\\ProductDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:58:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:58:26.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:08:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:46:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:46:54.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\CartManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CartManager.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Concrete\\CartManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CartManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:39:16.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:07:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Core\\DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Core\\DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\Concrete\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:07:37.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:48:54.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:47:28.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:11:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryListViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeToolTip": "MVCWebUI\\ViewComponents\\CategoryListViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:33:04.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:33:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:57:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\CartListViewModel.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\CartListViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\CartListViewModel.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\CartListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:57:10.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductContoller.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\ProductContoller.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Controllers\\ProductContoller.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\ProductContoller.cs",
+              "RelativeToolTip": "MVCWebUI\\Controllers\\ProductContoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:12:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\ICartService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICartService.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\ICartService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:46:04.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\Business\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:46:52.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCWebUI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:33:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCWebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\appsettings.json",
+              "RelativeToolTip": "MVCWebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T11:45:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Program.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Program.cs",
+              "RelativeToolTip": "MVCWebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:45:44.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCWebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:33:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MVCWebUI\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:41:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SessionExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Extensions\\SessionExtensionMethods.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Extensions\\SessionExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Extensions\\SessionExtensionMethods.cs",
+              "RelativeToolTip": "MVCWebUI\\Extensions\\SessionExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:36:46.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Complete.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Cart\\Complete.cshtml",
+              "RelativeDocumentMoniker": "MVCWebUI\\Views\\Cart\\Complete.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Cart\\Complete.cshtml",
+              "RelativeToolTip": "MVCWebUI\\Views\\Cart\\Complete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T13:52:41.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\CategoryListViewModel.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\CategoryListViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\CategoryListViewModel.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\CategoryListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:34:16.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeDocumentMoniker": "MVCWebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeToolTip": "MVCWebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T06:34:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShippingDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ShippingDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\ShippingDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ShippingDetailsViewModel.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\ShippingDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:49:45.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShippingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ShippingDetail.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\Models\\ShippingDetail.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Models\\ShippingDetail.cs",
+              "RelativeToolTip": "MVCWebUI\\Models\\ShippingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:48:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShippingDetailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\ValidationRules\\FluentValidation\\ShippingDetailValidator.cs",
+              "RelativeDocumentMoniker": "MVCWebUI\\ValidationRules\\FluentValidation\\ShippingDetailValidator.cs",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\ValidationRules\\FluentValidation\\ShippingDetailValidator.cs",
+              "RelativeToolTip": "MVCWebUI\\ValidationRules\\FluentValidation\\ShippingDetailValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T11:34:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\burak.cengiz.BELENCO\\source\\repos\\NorthwindLevelTwo\\MVCWebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCWebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T13:42:41.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
